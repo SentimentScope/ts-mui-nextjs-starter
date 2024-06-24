@@ -27,7 +27,7 @@ sections:
         color: primary
       - type: Button
         label: Email
-        url: /
+        url: 'mailto:'
         size: large
         variant: outlined
         color: primary
