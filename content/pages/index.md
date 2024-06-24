@@ -4,7 +4,7 @@ type: Page
 sections:
   - type: HeroSection
     title: Sentiment Scope
-    subtitle: An
+    subtitle: A novel method of measuring intergroup disgust sentiment online
     text: >
       This is the HeroSection component. You can visually edit this component &
       add more sections while developing locally. [Learn
