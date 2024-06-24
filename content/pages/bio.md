@@ -32,7 +32,7 @@ sections:
         variant: outlined
         color: primary
       - type: Button
-        label: Linked in
+        label: LinkedIn
         url: 'https://www.linkedin.com/in/oliver-galt-330243235/'
         size: large
         variant: outlined
