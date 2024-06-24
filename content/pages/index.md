@@ -5,10 +5,7 @@ sections:
   - type: HeroSection
     title: Sentiment Scope
     subtitle: A novel method of measuring intergroup disgust sentiment online
-    text: >
-      This is the HeroSection component. You can visually edit this component &
-      add more sections while developing locally. [Learn
-      more.](https://docs.netlify.com/visual-editor/local-development/)
+    text: ''
     actions:
       - type: Button
         label: Start Building
