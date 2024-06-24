@@ -16,7 +16,7 @@ sections:
       - type: Button
         label: About the Author
         url: 'https://sentimentscope.netlify.app/bio'
-        size: large
+        size: medium
         variant: outlined
         color: primary
     image:
