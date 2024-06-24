@@ -15,7 +15,7 @@ sections:
         color: primary
       - type: Button
         label: About the Author
-        url: 'https://docs.netlify.com/visual-editor/overview/q'
+        url: 'https://sentimentscope.netlify.app/bio'
         size: large
         variant: outlined
         color: primary
