@@ -35,7 +35,7 @@ sections:
         label: Linked in
         url: 'https://www.linkedin.com/in/oliver-galt-330243235/'
         size: medium
-        variant: text
+        variant: outlined
         color: primary
     image:
       type: Image
