@@ -20,7 +20,7 @@ sections:
 
     actions:
       - type: Button
-        label: Get Started
+        label: CV
         url: /
         size: large
         variant: contained
