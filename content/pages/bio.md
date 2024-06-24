@@ -3,7 +3,7 @@ type: Page
 title: About the Author
 sections:
   - type: HeroSection
-    title: An Empty Page
+    title: About the Author
     subtitle: The section subtitle
     text: |+
       Oliver Galt is an MA graduate in International Conflict Analysis from 
