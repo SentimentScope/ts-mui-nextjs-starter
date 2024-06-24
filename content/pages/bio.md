@@ -4,7 +4,7 @@ title: About the Author
 sections:
   - type: HeroSection
     title: About the Author
-    subtitle: The section subtitle
+    subtitle: ''
     text: |+
       Oliver Galt is an MA graduate in International Conflict Analysis from 
       the University of Kent. He was born in Port of Spain, Trinidad and 
