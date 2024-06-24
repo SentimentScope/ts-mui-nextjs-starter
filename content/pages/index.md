@@ -44,7 +44,7 @@ sections:
         actions:
           - type: Button
             label: Read the Docs
-            url: 'https://sentimentscope.netlify.app'
+            url: 'https://sentimentscope.netlify.app/overview'
       - type: Card
         title: Second Card Title
         image:
