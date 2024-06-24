@@ -17,8 +17,8 @@ sections:
         label: About the Author
         url: 'https://sentimentscope.netlify.app/bio'
         size: large
-        variant: text
-        color: secondary
+        variant: outlined
+        color: primary
     image:
       type: Image
       url: /images/hero.svg
