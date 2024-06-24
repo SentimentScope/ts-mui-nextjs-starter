@@ -4,7 +4,7 @@ title: Introduction to Sentiment Scope
 sections:
   - type: HeroSection
     title: Introducing Sentiment Scope
-    subtitle: The section subtitle
+    subtitle: An overview of the project aims and post schedule
     text: >
       ## Aims:
 
