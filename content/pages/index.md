@@ -9,7 +9,7 @@ sections:
     actions:
       - type: Button
         label: Introduction
-        url: 'https://docs.netlify.com/visual-editor/get-started'
+        url: 'https://sentimentscope.netlify.app/overview'
         size: large
         variant: contained
         color: primary
