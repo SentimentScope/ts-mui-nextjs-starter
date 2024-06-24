@@ -33,6 +33,6 @@ sections:
         color: primary
     image:
       type: Image
-      url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+      url: /images/IMG_5681.jpg
       altText: Image alt text
 ---
