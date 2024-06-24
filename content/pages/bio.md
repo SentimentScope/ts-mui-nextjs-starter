@@ -21,7 +21,7 @@ sections:
     actions:
       - type: Button
         label: CV
-        url: /
+        url: /CV
         size: large
         variant: contained
         color: primary
