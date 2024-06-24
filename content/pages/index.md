@@ -14,7 +14,7 @@ sections:
         variant: contained
         color: primary
       - type: Button
-        label: ''
+        label: About the Author
         url: 'https://docs.netlify.com/visual-editor/overview/q'
         size: large
         variant: outlined
