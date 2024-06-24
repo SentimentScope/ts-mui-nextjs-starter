@@ -90,7 +90,7 @@ sections:
       - type: Button
         label: Next post
         url: /Disgust-Morality-and-Intergroup-Relations
-        size: medium
+        size: large
         variant: outlined
         color: primary
 ---
