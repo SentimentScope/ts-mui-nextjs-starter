@@ -31,7 +31,7 @@ sections:
     subtitle: Section subtitle here
     items:
       - type: Card
-        title: Introduction
+        title: Overview
         image:
           type: Image
           url: /images/nextjs.svg
