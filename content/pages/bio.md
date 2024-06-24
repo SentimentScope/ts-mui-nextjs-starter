@@ -31,6 +31,12 @@ sections:
         size: large
         variant: outlined
         color: primary
+      - type: Button
+        label: Linked in
+        url: 'https://www.linkedin.com/in/oliver-galt-330243235/'
+        size: medium
+        variant: text
+        color: primary
     image:
       type: Image
       url: /images/IMG_5681.jpg
