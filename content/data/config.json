@@ -26,12 +26,6 @@
                 "label": "Home",
                 "underline": "hover",
                 "url": "/"
-            },
-            {
-                "type": "Link",
-                "label": "About",
-                "underline": "hover",
-                "url": "/bio"
             }
         ]
     }
