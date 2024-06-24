@@ -92,5 +92,5 @@ sections:
         url: /Disgust-Morality-and-Intergroup-Relations
         size: large
         variant: outlined
-        color: secondary
+        color: primary
 ---
