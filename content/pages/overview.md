@@ -3,7 +3,7 @@ type: Page
 title: Introduction to Sentiment Scope
 sections:
   - type: HeroSection
-    title: An Empty Page
+    title: Introducing Sentiment Scope
     subtitle: The section subtitle
     text: >
       ## Aims:
