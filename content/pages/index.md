@@ -43,7 +43,7 @@ sections:
           aliquip ex ea commodo consequat.
         actions:
           - type: Button
-            label: Read the Docs
+            label: Read more
             url: 'https://sentimentscope.netlify.app/overview'
       - type: Card
         title: Second Card Title
