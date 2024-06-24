@@ -88,7 +88,7 @@ sections:
       Welcome to Sentiment Scope.
     actions:
       - type: Button
-        label: Learn more
+        label: Next post
         url: /
         size: large
         variant: outlined
