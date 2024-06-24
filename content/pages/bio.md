@@ -26,7 +26,7 @@ sections:
         variant: contained
         color: primary
       - type: Button
-        label: Learn more
+        label: Email
         url: /
         size: large
         variant: outlined
