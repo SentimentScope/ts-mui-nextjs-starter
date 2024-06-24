@@ -27,7 +27,7 @@ sections:
         color: primary
       - type: Button
         label: Email
-        url: 'mailto:'
+        url: 'mailto:sentimentscope@gmail.com'
         size: large
         variant: outlined
         color: primary
