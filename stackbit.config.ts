@@ -24,7 +24,7 @@ export const sbConfig = defineStackbitConfig({
         presetDirs: ['.stackbit/presets']
     },
     styleObjectModelName: 'ThemeStyle',
-  modelExtensions: [
+modelExtensions: [
     {
       name: 'page',
       type: 'page',
