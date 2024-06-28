@@ -3,7 +3,7 @@ type: Page
 title: LLM Specifications and Development Plan
 sections:
   - type: HeroSection
-    title: An Empty Page
+    title: Coming Soon!
     subtitle: The section subtitle
     text: >-
       Add more sections by hovering above or below this one and clicking '+ Add
