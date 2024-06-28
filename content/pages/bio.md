@@ -39,6 +39,6 @@ sections:
         color: primary
     image:
       type: Image
-      url: /images/IMG_5681.jpg
+      url: /images/IMG_5681 Large.jpeg
       altText: Image alt text
 ---
