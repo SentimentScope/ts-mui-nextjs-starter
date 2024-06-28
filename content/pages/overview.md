@@ -89,8 +89,7 @@ sections:
     actions:
       - type: Button
         label: Next post
-        url: >-
-          https://sentimentscope.netlify.app/disgust-morality-and-intergroup-relations
+        url: /disgust-morality-and-intergroup-relations
         size: large
         variant: outlined
         color: primary
