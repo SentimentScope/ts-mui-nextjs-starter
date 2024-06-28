@@ -3,7 +3,7 @@ type: Page
 title: Causal Network of Disgust Sentiment Online and Conflict
 sections:
   - type: HeroSection
-    title: An Empty Page
+    title: Causal Network of Disgust Sentiment Online and Conflict
     subtitle: The section subtitle
     text: |
       Coming Soon!
