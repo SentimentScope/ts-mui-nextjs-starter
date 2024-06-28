@@ -38,7 +38,7 @@ sections:
 
         actions:
           - type: Button
-            label: Read more
+            label: Link
             url: ''
       - type: Card
         title: Categorical Model Concept Map
