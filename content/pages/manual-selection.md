@@ -9,7 +9,7 @@ sections:
     actions:
       - type: Button
         label: Next Post
-        url: /limitations-and-llm
+        url: /limitations-and-llms
         size: large
         variant: contained
         color: primary
