@@ -4,7 +4,7 @@ title: Causal Network of Disgust Sentiment Online and Conflict
 sections:
   - type: HeroSection
     title: Causal Network of Disgust Sentiment Online and Conflict
-    subtitle: The section subtitle
+    subtitle: ''
     text: |
       Coming Soon!
     actions:
