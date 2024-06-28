@@ -33,8 +33,9 @@ sections:
           type: Image
           url: /images/nextjs.svg
           altText: First item image
-        text: |
-          Graphic coming soon!
+        text: |+
+          Disgust to conflict causal flowchart
+
         actions:
           - type: Button
             label: Read more
