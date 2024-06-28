@@ -14,14 +14,20 @@ const gitContentSource = new GitContentSource({
 	}
 });
 
-export const sbConfig = defineStackbitConfig({
+export const sbConfig = defineStackbitConfig({{
 	stackbitVersion: '~0.6.0',
 	ssgName: 'nextjs',
 	nodeVersion: '18',
 	contentSources: [gitContentSource],
-	presetSource: {
+	presetSource: {{
 		type: 'files',
 		presetDirs: ['.stackbit/presets']
-	},
-	styleObjectModelName: 'ThemeStyle'
-});
+	}},
+	modelExtensions: [
+		{{
+			name: 'page',
+			type: 'page',
+			urlPath: '/{{slug}}'
+		}},
+	]
+}});
