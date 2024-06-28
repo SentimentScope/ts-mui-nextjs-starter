@@ -4,7 +4,7 @@ title: Limitations Necessitating the Training of an LLM
 sections:
   - type: HeroSection
     title: Limitations Necessitating the Training of an LLM
-    subtitle: The section subtitle
+    subtitle: ''
     text: >-
       Add more sections by hovering above or below this one and clicking '+ Add
       Section', or using the sidebar.
