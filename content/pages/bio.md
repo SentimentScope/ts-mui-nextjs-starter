@@ -40,5 +40,5 @@ sections:
     image:
       type: Image
       url: /images/IMG_5681 Large.jpeg
-      altText: Scoping for Sentiments
+      altText: 'Me, Scoping for Sentiments'
 ---
