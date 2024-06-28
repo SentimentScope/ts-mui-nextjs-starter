@@ -34,7 +34,7 @@ sections:
           url: /images/nextjs.svg
           altText: First item image
         text: |+
-          ## Disgust to conflict causal flowchart
+          ### Disgust to conflict causal flowchart
 
         actions:
           - type: Button
