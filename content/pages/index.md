@@ -51,16 +51,4 @@ sections:
           - type: Button
             label: Link
             url: 'https://docs.netlify.com/visual-editor/model-map/'
-      - type: Card
-        title: Third Card Title
-        image:
-          type: Image
-          url: /images/ts.svg
-          altText: Third item image
-        text: |
-          Graphic coming soon!
-        actions:
-          - type: Button
-            label: Read the Docs
-            url: 'https://docs.netlify.com/visual-editor/overview/'
 ---
