@@ -6,11 +6,5 @@ sections:
     title: Coming Soon!
     subtitle: ''
     text: ''
-    actions:
-      - type: Button
-        label: Get Started
-        url: /
-        size: large
-        variant: contained
-        color: primary
+    actions: []
 ---
