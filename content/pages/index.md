@@ -49,7 +49,7 @@ sections:
         text: ''
         actions:
           - type: Button
-            label: Read the Docs
+            label: Link
             url: 'https://docs.netlify.com/visual-editor/model-map/'
       - type: Card
         title: Third Card Title
