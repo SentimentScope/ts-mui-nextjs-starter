@@ -41,7 +41,7 @@ sections:
             label: Read more
             url: 'https://sentimentscope.netlify.app/overview'
       - type: Card
-        title: ''
+        title: Categorical Model Concept Map
         image:
           type: Image
           url: /images/mui-5.svg
