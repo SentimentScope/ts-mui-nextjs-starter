@@ -34,7 +34,7 @@ sections:
           url: /images/nextjs.svg
           altText: First item image
         text: |
-          Graph coming soon!
+          Graphic coming soon!
         actions:
           - type: Button
             label: Read more
