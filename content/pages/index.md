@@ -46,7 +46,7 @@ sections:
           url: /images/mui-5.svg
           altText: Second item image
         text: |
-          Graph coming soon!
+          Graphic coming soon!
         actions:
           - type: Button
             label: Read the Docs
