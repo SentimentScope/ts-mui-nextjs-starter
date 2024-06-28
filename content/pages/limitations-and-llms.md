@@ -9,7 +9,7 @@ sections:
     actions:
       - type: Button
         label: Next Post
-        url: /
+        url: /llm-plan
         size: large
         variant: contained
         color: primary
