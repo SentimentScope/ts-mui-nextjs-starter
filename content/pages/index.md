@@ -39,7 +39,7 @@ sections:
         actions:
           - type: Button
             label: Read more
-            url: 'https://sentimentscope.netlify.app/overview'
+            url: ''
       - type: Card
         title: Categorical Model Concept Map
         image:
