@@ -13,4 +13,8 @@ sections:
         size: large
         variant: contained
         color: primary
+    image:
+      type: Image
+      url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+      altText: Image alt text
 ---
