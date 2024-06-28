@@ -50,7 +50,7 @@ sections:
         actions:
           - type: Button
             label: Read the Docs
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+            url: 'https://docs.netlify.com/visual-editor/model-map/'
       - type: Card
         title: Third Card Title
         image:
