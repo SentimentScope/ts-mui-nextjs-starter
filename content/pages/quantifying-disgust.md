@@ -16,5 +16,5 @@ sections:
     image:
       type: Image
       url: /images/premium_photo-1664392288260-4d2f3f0f2dfb Medium.jpeg
-      altText: Image alt text
+      altText: Counting a primal sentiment
 ---
