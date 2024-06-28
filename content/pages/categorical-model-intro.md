@@ -9,7 +9,7 @@ sections:
     actions:
       - type: Button
         label: Manual Selection
-        url: /
+        url: /manual-selection
         size: large
         variant: contained
         color: primary
