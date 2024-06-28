@@ -3,7 +3,7 @@ type: Page
 title: Categorical Model Concept Map
 sections:
   - type: HeroSection
-    title: An Empty Page
+    title: Coming Soon!
     subtitle: The section subtitle
     text: ''
     actions:
