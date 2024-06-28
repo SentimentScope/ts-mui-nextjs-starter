@@ -4,7 +4,7 @@ title: Categorical Model Concept Map
 sections:
   - type: HeroSection
     title: Coming Soon!
-    subtitle: The section subtitle
+    subtitle: ''
     text: ''
     actions:
       - type: Button
