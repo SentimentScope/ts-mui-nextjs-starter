@@ -4,7 +4,7 @@ type: Page
 sections:
   - type: HeroSection
     title: 'Sentiment Scope '
-    subtitle: ''
+    subtitle: An Introduction
     text: >
       #### The Project
 
