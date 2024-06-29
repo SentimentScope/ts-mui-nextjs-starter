@@ -5,7 +5,7 @@ sections:
   - type: HeroSection
     title: 'Sentiment Scope '
     subtitle: An Introduction
-    text: >+
+    text: >
       #### The Project
 
 
@@ -42,5 +42,11 @@ sections:
 
 
       ### Welcome to Sentiment Scope!
-
+    actions:
+      - type: Button
+        label: Overview
+        url: /overview
+        size: medium
+        variant: text
+        color: primary
 ---
