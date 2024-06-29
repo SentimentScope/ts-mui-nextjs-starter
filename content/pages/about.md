@@ -4,7 +4,7 @@ type: Page
 sections:
   - type: HeroSection
     title: Example for H2 headline
-    subtitle: This is the subtitle
+    subtitle: ''
     text: >
       #### The Project
 
