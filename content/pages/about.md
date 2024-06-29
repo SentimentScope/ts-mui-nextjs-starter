@@ -3,7 +3,7 @@ title: About
 type: Page
 sections:
   - type: HeroSection
-    title: Example for H2 headline
+    title: Sentiment Scope
     subtitle: ''
     text: >
       #### The Project
