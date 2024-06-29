@@ -5,7 +5,7 @@ sections:
   - type: HeroSection
     title: 'Sentiment Scope '
     subtitle: An Introduction
-    text: >
+    text: >+
       #### The Project
 
 
@@ -39,5 +39,8 @@ sections:
       improving our capacity to foresee and address grassroots conflicts.
 
 
-      Thanks for joining so early in this journey. Welcome to Sentiment Scope!
+
+
+      ### Welcome to Sentiment Scope!
+
 ---
