@@ -3,7 +3,7 @@ title: About
 type: Page
 sections:
   - type: HeroSection
-    title: Sentiment Scope
+    title: 'Sentiment Scope '
     subtitle: ''
     text: >
       #### The Project
