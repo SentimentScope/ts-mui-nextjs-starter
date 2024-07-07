@@ -12,7 +12,7 @@ const Navbar = () => {
       </ul>
       <style jsx>{`
         nav {
-          background: #333;
+          background: #2A3D45;
           padding: 1rem;
         }
         ul {
