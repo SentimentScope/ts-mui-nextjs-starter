@@ -46,7 +46,7 @@ sections:
       - type: Button
         label: Overview
         url: /overview
-        size: large
-        variant: text
+        size: medium
+        variant: outlined
         color: secondary
 ---
