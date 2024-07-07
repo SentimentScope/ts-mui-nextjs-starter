@@ -13,7 +13,7 @@ const Navbar = () => {
       <style jsx>{`
         nav {
           background: #2A3D45;
-          padding: 1rem;
+          padding: 0.5rem;
         }
         ul {
           list-style: none;
