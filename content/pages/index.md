@@ -9,7 +9,7 @@ sections:
     actions:
       - type: Button
         label: Introduction
-        url: 'https://sentimentscope.netlify.app/overview'
+        url: /about
         size: large
         variant: contained
         color: primary
