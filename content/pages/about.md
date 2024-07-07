@@ -48,5 +48,5 @@ sections:
         url: /overview
         size: medium
         variant: text
-        color: primary
+        color: secondary
 ---
