@@ -44,7 +44,7 @@ sections:
       ### Welcome to Sentiment Scope!
     actions:
       - type: Button
-        label: Overview
+        label: First Post
         url: /overview
         size: medium
         variant: contained
