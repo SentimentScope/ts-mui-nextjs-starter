@@ -47,6 +47,6 @@ sections:
         label: Overview
         url: /overview
         size: medium
-        variant: text
+        variant: outlined
         color: primary
 ---
