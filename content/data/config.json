@@ -1,21 +1,4 @@
 {
     "type": "Config",
-    "favicon": "/images/favicon.svg",
-    "header": {
-        "title": "",
-        "navLinks": [
-            {
-                "type": "Link",
-                "label": "Home",
-                "url": "/",
-                "underline": "hover"
-            },
-            {
-                "type": "Link",
-                "label": "About",
-                "url": "/about",
-                "underline": "hover"
-            }
-        ]
-    }
+    "favicon": "/images/favicon.svg"
 }
