@@ -5,14 +5,14 @@ let theme = createTheme({
     palette: {
         mode: themeStyle.mode ?? 'light',
         primary: {
-            main: themeStyle.primaryColor ?? '#1F2B9D'
+            main: themeStyle.primaryColor ?? '#413C58'
         },
         secondary: {
-            main: themeStyle.secondaryColor ?? '#F65458'
+            main: themeStyle.secondaryColor ?? '#2A3D45'
         },
         text: {
-            primary: themeStyle.mode === 'dark' ? '#fff' : '#02001d',
-            secondary: themeStyle.mode === 'dark' ? '#979797' : '#374151'
+            primary: themeStyle.mode === 'dark' ? '#F0F0F0' : '#333333',
+            secondary: themeStyle.mode === 'dark' ? '#374151' : '#979797'
         }
     },
     typography: {
