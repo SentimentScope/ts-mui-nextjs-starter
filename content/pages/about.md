@@ -48,5 +48,5 @@ sections:
         url: /overview
         size: medium
         variant: outlined
-        color: primary
+        color: inherit
 ---
